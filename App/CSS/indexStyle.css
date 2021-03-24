@@ -1,0 +1,23 @@
+
+/* Body */
+body{
+  background-image: url("../Images/backgroudImage.jpg");
+  background-size: cover;
+}
+/*Font*/
+.font{
+  font-family: 'Montserrat', sans-serif;
+}
+/* Cover */
+.cover{
+  width: 100%;
+  height: 850px;
+}
+.active{
+  color: black;
+}
+
+/*---Added by Sam --*/
+button.btn-secondary:hover {
+	color: #f8f9fa;
+}
